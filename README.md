@@ -1,4 +1,4 @@
-#
+# GlobalAIHubPythonCourse
 # GAIH Student Repo Example
 ![](img/newlogo.png)
 
