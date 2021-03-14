@@ -1,5 +1,5 @@
 # GlobalAIHubPythonCourse
-# GAIH Student Repo Example
+
 ![](img/newlogo.png)
 
 **Course Date:** 12.03.2020 
