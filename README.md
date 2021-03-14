@@ -2,7 +2,7 @@
 
 ![](img/newlogo.png)
 
-**Course Date:** 12.03.2020 
+**Course Date:** 12.03.2021
 **Name:** Fatih  
 **Surname:** SUNGURLU  
 **Email:** fthsngrl4@gmail.com 
