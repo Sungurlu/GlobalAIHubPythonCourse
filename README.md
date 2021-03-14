@@ -1,8 +1,8 @@
-# GlobalAIHubPythonCourse
+
 # GAIH Student Repo Example
 ![](img/newlogo.png)
 
-**Course Date:** 12.03.2020
+**Course Date:** 12.03.2020 
 **Name:** Fatih  
 **Surname:** SUNGURLU  
 **Email:** fthsngrl4@gmail.com 
